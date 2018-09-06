@@ -1,0 +1,18 @@
+"C:\Program Files\Java\jdk-10.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.3\lib\idea_rt.jar=62032:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.3\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\dougw\IdeaProjects\Sprint09TextEscape\out\production\Sprint09TextEscape Main
+2.3
+2.30
+2.3000
+1000000
+1,000,000
+1000.2
+$1000.20
+$1,000.20
+Hello!
+|              Hello!|
+|Hello!              |
+|Hello, this is a long sentence.!|
+|Hello, this is a lon|
+    Apples $1.40
+  Brownies $0.80
+
+Process finished with exit code 0
